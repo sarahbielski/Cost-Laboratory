@@ -1,0 +1,532 @@
+{
+  "schema_version": "1.0",
+  "research_date": "2026-10-27",
+  "venture": {
+    "name": "Jewelry Travel Organizer",
+    "working_site_name": "Jewelry / Journey (working concept name, not a confirmed brand)",
+    "concept": "A compact travel organizer designed to reduce jewelry movement, tangling and damage.",
+    "primary_product": "Book-style travel jewelry organizer with secured storage by jewelry type.",
+    "target_customers": "Proposed primary audience: women ages 18–54 who travel and wear jewelry; secondary audience: gift buyers. These are targeting hypotheses, not measured buyers.",
+    "needs": "Protect meaningful jewelry, pack efficiently, find pieces quickly and avoid tangled necklaces.",
+    "value_proposition": "Visible, secure retention along necklaces and bracelets, plus dedicated earring and bangle storage.",
+    "geographic_market": "United States is the initial research market; a launch territory has not been finalized.",
+    "distribution": "Direct online sales through the venture website are a planning assumption; no established sales channel was verified.",
+    "features": [
+      "Paired small snap-closed supports along both sides of necklaces",
+      "Individual pendant pockets",
+      "Similar secured bracelet lanes",
+      "Separate storage for studs, drops and hoops",
+      "Book-like extra page for bangles and larger hoops",
+      "Protective dividers and durable closures, subject to prototype testing"
+    ],
+    "unknowns": "Final brand, materials, dimensions, capacity, manufacturing costs, shipping policy, demand and selling price are not finalized.",
+    "context": "Travel cases are direct alternatives; improvised pouches and jewelry bags are indirect substitutes. This price sample focuses on four direct competitors.",
+    "website": "https://sarahbielski.github.io/Creative-Website/",
+    "prior_research": "User-provided research describes 80 reviews of a competing Amazon product: 59 positive, 15 mixed and 6 negative; 7 mentioned faulty snaps. These are not reviews of this venture and were not recollected for this pricing mission. Simulated focus-group responses are fictional, not customer demand evidence."
+  },
+  "competitors": [
+    {
+      "competitor_id": "C01",
+      "name": "BAGSMART",
+      "classification": "Direct",
+      "official_website": "https://www.bagsmart.com",
+      "geographic_market": "United States storefront; broader markets not assessed",
+      "target_customers": "Price-conscious travelers seeking practical organization",
+      "main_products": "Travel bags, packing accessories and jewelry organizers",
+      "positioning": "Budget to accessible mid-market",
+      "differentiating_features": "Fabric organizers, distinct compartments and modular layouts",
+      "reason_for_inclusion": "Tests how the venture competes with affordable functional storage.",
+      "interpretation_note": "Customer segments and positioning are analyst interpretations of products and merchandising, not verified customer demographics."
+    },
+    {
+      "competitor_id": "C02",
+      "name": "Quince",
+      "classification": "Direct",
+      "official_website": "https://www.quince.com",
+      "geographic_market": "United States storefront; broader markets not assessed",
+      "target_customers": "Value-conscious buyers seeking leather accessories",
+      "main_products": "Apparel, home goods, jewelry and travel accessories",
+      "positioning": "Accessible mid-market",
+      "differentiating_features": "Leather exterior and anti-tarnish microsuede lining",
+      "reason_for_inclusion": "Strong material/value benchmark near the proposed price range.",
+      "interpretation_note": "Customer segments and positioning are analyst interpretations of products and merchandising, not verified customer demographics."
+    },
+    {
+      "competitor_id": "C03",
+      "name": "Mark & Graham",
+      "classification": "Direct",
+      "official_website": "https://www.markandgraham.com",
+      "geographic_market": "United States storefront; broader markets not assessed",
+      "target_customers": "Style-conscious travelers and personalized-gift shoppers",
+      "main_products": "Travel accessories, jewelry cases and gifts",
+      "positioning": "Upper mid-market / gifting",
+      "differentiating_features": "Personalization and decorative finishes",
+      "reason_for_inclusion": "Tests whether practical protection can compete with gift-oriented styling.",
+      "interpretation_note": "Customer segments and positioning are analyst interpretations of products and merchandising, not verified customer demographics."
+    },
+    {
+      "competitor_id": "C04",
+      "name": "WOLF",
+      "classification": "Direct",
+      "official_website": "https://www.wolf1834.com/us/",
+      "geographic_market": "United States storefront; broader markets not assessed",
+      "target_customers": "Buyers seeking premium jewelry care and presentation",
+      "main_products": "Jewelry storage, watch storage and winders",
+      "positioning": "Premium",
+      "differentiating_features": "Velvet designs and branded LusterLoc lining",
+      "reason_for_inclusion": "Provides a premium ceiling; less directly comparable in brand and finish.",
+      "interpretation_note": "Customer segments and positioning are analyst interpretations of products and merchandising, not verified customer demographics."
+    }
+  ],
+  "pricing_offers": [
+    {
+      "offer_id": "P01",
+      "competitor_id": "C01",
+      "competitor_name": "BAGSMART",
+      "product_name": "Dazzling Jewelry Organizer",
+      "description": "Binder-style organizer for multiple jewelry types.",
+      "pricing_model": "One-time purchase",
+      "current_price": 22.99,
+      "regular_price": 33,
+      "promotional_price": 22.99,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Transparent pockets",
+        "Metal binder rings",
+        "Soft lining",
+        "Water-resistant polyester"
+      ],
+      "representative": false,
+      "variant": "Pink; SKU BM0106110AN274",
+      "dimensions_inches": [
+        9.6,
+        2,
+        6.7
+      ],
+      "price_basis": "Listed price",
+      "reference_price": null,
+      "availability": "Notify me when available",
+      "source_url": "https://www.bagsmart.com/products/dazzling-jewelry-organizer?variant=40052360020050",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Unavailable selected variant, excluded from representative comparison. $33 is a displayed crossed-out reference, not proof of a historical selling price.",
+      "missing_information": "Restock date and historical selling price.",
+      "shipping": {
+        "us_standard_under_50": 8,
+        "us_free_shipping_threshold": 50,
+        "source": "Product page shipping section; confirm at checkout"
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P02",
+      "competitor_id": "C01",
+      "competitor_name": "BAGSMART",
+      "product_name": "Peri Folding Jewelry Organizer",
+      "description": "Lightweight folding organizer with five storage zones.",
+      "pricing_model": "One-time purchase",
+      "current_price": 9.99,
+      "regular_price": 37,
+      "promotional_price": 9.99,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Ring band",
+        "Earring panel",
+        "Necklace strap",
+        "Two zip storage areas"
+      ],
+      "representative": false,
+      "variant": "Medium / Teal; SKU BM0106107AN070",
+      "dimensions_inches": [
+        9,
+        5.9,
+        0.6
+      ],
+      "price_basis": "Listed price",
+      "reference_price": null,
+      "availability": "Add to bag shown",
+      "source_url": "https://www.bagsmart.com/products/peri-folding-jewelry-organizer?variant=39706447544402",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Displayed $37 crossed-out reference is not verified historical pricing. Retrieved official page was indexed about three weeks before checking; reconfirm before purchase.",
+      "missing_information": "Promotion expiry and live checkout price.",
+      "shipping": {
+        "us_standard_under_50": 8,
+        "us_free_shipping_threshold": 50,
+        "source": "Product page shipping section; confirm at checkout"
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P03",
+      "competitor_id": "C01",
+      "competitor_name": "BAGSMART",
+      "product_name": "Crush Jewelry Organizer",
+      "description": "Small structured organizer with adjustable interior.",
+      "pricing_model": "One-time purchase",
+      "current_price": 39.99,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Secured necklace slots",
+        "Separated earring storage",
+        "Ring slots",
+        "Removable divider"
+      ],
+      "representative": true,
+      "variant": "Pink Meadow; SKU BM0106039AN574",
+      "dimensions_inches": [
+        5.91,
+        2.95,
+        2.36
+      ],
+      "price_basis": "Listed price",
+      "reference_price": null,
+      "availability": "Add to bag shown",
+      "source_url": "https://www.bagsmart.com/products/crush-jewelry-organizer",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Representative: available structured multi-jewelry case. Page describes faux-leather lining but lists interior as polyester; material composition needs clarification.",
+      "missing_information": "Independent durability testing; precise lining construction.",
+      "shipping": {
+        "us_standard_under_50": 8,
+        "us_free_shipping_threshold": 50,
+        "source": "Product page shipping section; confirm at checkout"
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P04",
+      "competitor_id": "C02",
+      "competitor_name": "Quince",
+      "product_name": "Leather Jewelry Travel Case",
+      "description": "Compact leather case for a small travel jewelry selection.",
+      "pricing_model": "One-time purchase",
+      "current_price": 40,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Cow leather",
+        "Anti-tarnish microsuede lining"
+      ],
+      "representative": true,
+      "variant": "Black; Nude also listed at $40 in official category",
+      "dimensions_inches": null,
+      "price_basis": "Listed price",
+      "reference_price": {
+        "amount": 95,
+        "type": "Traditional retail comparison, not Quince regular price"
+      },
+      "availability": "Add to bag shown",
+      "source_url": "https://www.quince.com/women/leather-jewelry-travel-case",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "$95 traditional retail is a comparison benchmark, not a verified previous Quince price or sale. Free standard shipping shown.",
+      "missing_information": "Detailed capacity and dimensions were not exposed in extracted product-page text.",
+      "shipping": {
+        "us_standard": 0
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P05",
+      "competitor_id": "C03",
+      "competitor_name": "Mark & Graham",
+      "product_name": "Small Travel Jewelry Case",
+      "description": "Compact travel jewelry case marketed with personalization.",
+      "pricing_model": "One-time purchase",
+      "current_price": 69,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Small travel format",
+        "Personalization options"
+      ],
+      "representative": true,
+      "variant": null,
+      "dimensions_inches": null,
+      "price_basis": "Listed price",
+      "reference_price": null,
+      "availability": "Live listing; selected-variant stock not established",
+      "source_url": "https://www.markandgraham.com/products/travel-jewelry-case-small-uv/",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Official page directly confirms $69. Search-indexed official description mentions vegan leather, linen lining and a $17 personalization charge; those details were not fully exposed in direct page text. $69 excludes optional configuration and shipping.",
+      "missing_information": "Final personalization surcharge, selected-color stock, shipping and complete specifications.",
+      "shipping": null,
+      "subscription_or_trial": "Not applicable",
+      "customization": "Personalization offered; final options and surcharge require configuration",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P06",
+      "competitor_id": "C03",
+      "competitor_name": "Mark & Graham",
+      "product_name": "Small Raffia Travel Jewelry Case",
+      "description": "Decorative raffia-style version of a small travel case.",
+      "pricing_model": "One-time purchase",
+      "current_price": 69,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "Raffia-style finish",
+        "Personalization options"
+      ],
+      "representative": false,
+      "variant": null,
+      "dimensions_inches": null,
+      "price_basis": "Listed price",
+      "reference_price": null,
+      "availability": "Live listing; selected-variant stock not established",
+      "source_url": "https://www.markandgraham.com/products/small-raffia-travel-jewelry-case/",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Official product page directly confirms $69. Search-indexed official description gives faux raffia and cotton-linen lining; full configuration not exposed in extracted page.",
+      "missing_information": "Selected-color availability, personalization cost, shipping and full specifications.",
+      "shipping": null,
+      "subscription_or_trial": "Not applicable",
+      "customization": "Personalization offered; final options and surcharge require configuration",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P07",
+      "competitor_id": "C04",
+      "competitor_name": "WOLF",
+      "product_name": "Zoe Travel Zip Case",
+      "description": "Velvet travel case with organized interior.",
+      "pricing_model": "One-time purchase",
+      "current_price": 225,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "LusterLoc lining (brand claim)",
+        "Mirror",
+        "Three ring rolls",
+        "Covered and small compartments"
+      ],
+      "representative": true,
+      "variant": "Forest Green URL; page displays model starting price",
+      "dimensions_inches": [
+        8.25,
+        4.5,
+        2.25
+      ],
+      "price_basis": "Models from; starting price",
+      "reference_price": null,
+      "availability": "Add to Cart and stock-alert text both present; variant stock unconfirmed",
+      "source_url": "https://www.wolf1834.com/us/zoe-travel-zip-case/forestgreen",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Verified starting price, not a configured quote. Premium context benchmark. Conditional 10% newsletter discount excluded. Anti-tarnish performance is a manufacturer claim, not independently tested.",
+      "missing_information": "Configured variant price/stock and independent performance evidence.",
+      "shipping": {
+        "us_standard": 0
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    },
+    {
+      "offer_id": "P08",
+      "competitor_id": "C04",
+      "competitor_name": "WOLF",
+      "product_name": "Zoe Travel Round",
+      "description": "Round velvet travel jewelry case.",
+      "pricing_model": "One-time purchase",
+      "current_price": 189,
+      "regular_price": null,
+      "promotional_price": null,
+      "currency": "USD",
+      "pricing_unit": "One organizer",
+      "features": [
+        "LusterLoc lining (brand claim)",
+        "Mirror",
+        "Seven ring rolls",
+        "Two compartments",
+        "Zip pouch"
+      ],
+      "representative": false,
+      "variant": "Forest Green URL; page displays model starting price",
+      "dimensions_inches": [
+        4.75,
+        4.75,
+        2.25
+      ],
+      "price_basis": "Models from; starting price",
+      "reference_price": null,
+      "availability": "Add to Cart and stock-alert text both present; variant stock unconfirmed",
+      "source_url": "https://www.wolf1834.com/us/zoe-travel-round/forestgreen",
+      "source_type": "Official product page",
+      "research_date": "2026-10-27",
+      "verification_status": "Verified",
+      "verification_scope": "Displayed product-page price; not a checkout quote or independent product-performance test.",
+      "research_notes": "Verified starting price, not a configured quote. Conditional 10% newsletter discount excluded.",
+      "missing_information": "Configured variant price/stock and independent performance evidence.",
+      "shipping": {
+        "us_standard": 0
+      },
+      "subscription_or_trial": "Not applicable",
+      "customization": "Not observed; do not infer unavailable",
+      "discounts": "Only the displayed offer is applied. Conditional signup or sitewide offers are excluded."
+    }
+  ],
+  "comparison": {
+    "unit": "USD per organizer; merchandise only",
+    "representative": {
+      "offer_ids": [
+        "P03",
+        "P04",
+        "P05",
+        "P07"
+      ],
+      "count": 4,
+      "minimum": 39.99,
+      "maximum": 225,
+      "mean": 93.4975,
+      "median": 54.5
+    },
+    "core_alternatives_excluding_premium": {
+      "offer_ids": [
+        "P03",
+        "P04",
+        "P05"
+      ],
+      "count": 3,
+      "minimum": 39.99,
+      "maximum": 69,
+      "mean": 49.6633,
+      "median": 40
+    },
+    "all_researched_offers": {
+      "offer_ids": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P07",
+        "P08"
+      ],
+      "count": 8,
+      "minimum": 9.99,
+      "maximum": 225,
+      "mean": 83.1213,
+      "median": 54.5
+    },
+    "brand_ranges": [
+      {
+        "competitor_id": "C01",
+        "offer_ids": [
+          "P01",
+          "P02",
+          "P03"
+        ],
+        "count": 3,
+        "minimum": 9.99,
+        "maximum": 39.99,
+        "mean": 24.3233,
+        "median": 22.99
+      },
+      {
+        "competitor_id": "C02",
+        "offer_ids": [
+          "P04"
+        ],
+        "count": 1,
+        "minimum": 40,
+        "maximum": 40,
+        "mean": 40,
+        "median": 40
+      },
+      {
+        "competitor_id": "C03",
+        "offer_ids": [
+          "P05",
+          "P06"
+        ],
+        "count": 2,
+        "minimum": 69,
+        "maximum": 69,
+        "mean": 69,
+        "median": 69.0
+      },
+      {
+        "competitor_id": "C04",
+        "offer_ids": [
+          "P07",
+          "P08"
+        ],
+        "count": 2,
+        "minimum": 189,
+        "maximum": 225,
+        "mean": 207,
+        "median": 207.0
+      }
+    ],
+    "interpretation": "The premium WOLF starting price raises the four-brand mean. The three core alternatives are clustered near $40–$69; their median is $40. Promotional and unavailable offers remain only in the full researched-offer range."
+  },
+  "preliminary_pricing_recommendation": {
+    "minimum": 45,
+    "maximum": 59,
+    "currency": "USD",
+    "unit": "One organizer, before tax/shipping",
+    "status": "Preliminary hypothesis",
+    "rationale": "Near but above BAGSMART Crush ($39.99) and Quince ($40), below Mark & Graham ($69), and well below WOLF ($225 starting price). Extra retention and durable closures must demonstrate value to justify a premium over $40 alternatives.",
+    "conditions": [
+      "Prototype-test necklace retention and snap durability",
+      "Estimate landed cost, packaging, fulfillment, returns and contribution margin",
+      "Test $45, $49 and $59 with intended buyers; measure purchase intent and conversion",
+      "Set shipping and personalization policies before final pricing"
+    ]
+  },
+  "market_opportunities": [
+    "Demonstrate reduced necklace movement with paired supports along the chain. Existing organizers already claim tangle protection; an evidence-based demonstration is more defensible than claiming the category lacks it.",
+    "Make reliable, replaceable closures a design priority. The user’s earlier competitor-review sample raises a snap concern, but does not establish its market-wide frequency.",
+    "Explore an optional bangle/large-hoop page or gift package after cost testing. Treat bundles and personalization as concepts, not observed venture offers.",
+    "Use clear storage demonstrations and a compact packing video to explain the functional difference. Avoid an absolute guarantee that jewelry can never tangle."
+  ],
+  "research_limitations": [
+    "Eight selected offers from four direct competitors are a purposive sample, not a market census or a sales-weighted average. Brand ranges cover only researched offers, not entire catalogs.",
+    "Prices were checked on 2026-10-27 through retrieved official pages. Some indexed pages were several days or weeks old. Prices, promotions and availability can change; no checkout was performed.",
+    "Comparisons use USD merchandise prices for one organizer before tax, shipping and personalization. Size, capacity, materials and brand equity differ; these are functional alternatives, not identical products.",
+    "WOLF prices are explicitly starting prices. Configured WOLF stock and Mark & Graham color stock were not established. Dazzling is unavailable in the observed variant.",
+    "BAGSMART crossed-out prices are displayed reference prices, not evidence they were historically charged. Quince traditional retail is not its own regular price.",
+    "Brand protection claims were not tested. The absence of a feature in retrieved descriptions does not prove no competitor offers it. Mark & Graham detail extraction was incomplete.",
+    "No manufacturing costs, willingness-to-pay study, sales volumes, conversion rates or profitability data were available. Recommended pricing is a hypothesis, not an optimal price."
+  ]
+}
